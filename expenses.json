@@ -1,0 +1,80 @@
+[
+    {
+        "date": "2025-09-22",
+        "category": "food",
+        "amount": 12345678890.0,
+        "notes": ""
+    },
+    {
+        "date": "2025-09-22",
+        "category": "transport",
+        "amount": 987654321.0,
+        "notes": ""
+    },
+    {
+        "date": "2025-09-22",
+        "category": "qwer",
+        "amount": 1243324.0,
+        "notes": ""
+    },
+    {
+        "date": "2025-09-22",
+        "category": "xsdaxa",
+        "amount": 23142545.0,
+        "notes": ""
+    },
+    {
+        "date": "2025-09-22",
+        "category": "2",
+        "amount": 2.0,
+        "notes": ""
+    },
+    {
+        "date": "2025-09-22",
+        "category": "2",
+        "amount": 2222222.0,
+        "notes": ""
+    },
+    {
+        "date": "2025-09-22",
+        "category": "22",
+        "amount": 2222.0,
+        "notes": "2"
+    },
+    {
+        "date": "2025-09-22",
+        "category": "222",
+        "amount": 2.0,
+        "notes": "22"
+    },
+    {
+        "date": "2025-09-22",
+        "category": "2",
+        "amount": 2.0,
+        "notes": "22"
+    },
+    {
+        "date": "2025-09-22",
+        "category": "2",
+        "amount": 2.0,
+        "notes": "2"
+    },
+    {
+        "date": "2025-09-22",
+        "category": "2",
+        "amount": 2.0,
+        "notes": "2"
+    },
+    {
+        "date": "2025-09-22",
+        "category": "2",
+        "amount": 2.0,
+        "notes": ""
+    },
+    {
+        "date": "2025-09-22",
+        "category": "2",
+        "amount": 2.0,
+        "notes": ""
+    }
+]
